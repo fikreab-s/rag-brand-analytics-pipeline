@@ -1,0 +1,102 @@
+[
+  {
+    "query": "What is Cardivex market share?",
+    "retrieved": [
+      {
+        "score": 0.0739,
+        "source": "Q3 2024 Brand Performance Report",
+        "text": "Cardivex achieved 12.3% market share in Q3, up 1.2pp YoY. Digital channel ROI re..."
+      },
+      {
+        "score": 0.0507,
+        "source": "MMM Model Results - Cardivex",
+        "text": "Bayesian MMM (PyMC-Marketing) estimated TV adstock half-life of 4.2 weeks. Satur..."
+      },
+      {
+        "score": 0.0048,
+        "source": "HCP Engagement Summary",
+        "text": "Tier 1 HCPs (15% of base) generated 42% of TRx volume. Digital engagement increa..."
+      }
+    ]
+  },
+  {
+    "query": "Which channel has best ROI?",
+    "retrieved": [
+      {
+        "score": 0.0632,
+        "source": "Q3 2024 Brand Performance Report",
+        "text": "Cardivex achieved 12.3% market share in Q3, up 1.2pp YoY. Digital channel ROI re..."
+      },
+      {
+        "score": 0.0315,
+        "source": "Promotional ROI Analysis - FY2024",
+        "text": "Total promotional spend of $45M across 6 channels. TV delivered highest absolute..."
+      },
+      {
+        "score": -0.0639,
+        "source": "HCP Engagement Summary",
+        "text": "Tier 1 HCPs (15% of base) generated 42% of TRx volume. Digital engagement increa..."
+      }
+    ]
+  },
+  {
+    "query": "How are Tier 1 HCPs performing?",
+    "retrieved": [
+      {
+        "score": 0.029,
+        "source": "HCP Engagement Summary",
+        "text": "Tier 1 HCPs (15% of base) generated 42% of TRx volume. Digital engagement increa..."
+      },
+      {
+        "score": -0.0035,
+        "source": "Competitive Landscape Q3",
+        "text": "Market leader holds 28% share, stable QoQ. Two new entrants in the immunology sp..."
+      },
+      {
+        "score": -0.0081,
+        "source": "MMM Model Results - Cardivex",
+        "text": "Bayesian MMM (PyMC-Marketing) estimated TV adstock half-life of 4.2 weeks. Satur..."
+      }
+    ]
+  },
+  {
+    "query": "What does the MMM say about TV?",
+    "retrieved": [
+      {
+        "score": 0.0598,
+        "source": "HCP Engagement Summary",
+        "text": "Tier 1 HCPs (15% of base) generated 42% of TRx volume. Digital engagement increa..."
+      },
+      {
+        "score": 0.0109,
+        "source": "MMM Model Results - Cardivex",
+        "text": "Bayesian MMM (PyMC-Marketing) estimated TV adstock half-life of 4.2 weeks. Satur..."
+      },
+      {
+        "score": -0.0278,
+        "source": "Promotional ROI Analysis - FY2024",
+        "text": "Total promotional spend of $45M across 6 channels. TV delivered highest absolute..."
+      }
+    ]
+  },
+  {
+    "query": "What is the competitive outlook?",
+    "retrieved": [
+      {
+        "score": 0.0864,
+        "source": "HCP Engagement Summary",
+        "text": "Tier 1 HCPs (15% of base) generated 42% of TRx volume. Digital engagement increa..."
+      },
+      {
+        "score": 0.0745,
+        "source": "Promotional ROI Analysis - FY2024",
+        "text": "Total promotional spend of $45M across 6 channels. TV delivered highest absolute..."
+      },
+      {
+        "score": -0.0189,
+        "source": "MMM Model Results - Cardivex",
+        "text": "Bayesian MMM (PyMC-Marketing) estimated TV adstock half-life of 4.2 weeks. Satur..."
+      }
+    ]
+  }
+]
