@@ -60,3 +60,9 @@ Built as part of an internal **RAG fine-tuning initiative** for commercial analy
 
 ## License
 MIT
+
+## 📸 Visual Tour
+
+![comparison](viz/comparison.png)
+
+---
