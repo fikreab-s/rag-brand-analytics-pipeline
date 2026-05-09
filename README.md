@@ -1,6 +1,9 @@
-# 🔎 RAG Pipeline for Brand Analytics
+# RAG Pipeline for Brand Analytics
 
-> Retrieval-Augmented Generation pipeline for pharma brand analytics — combining vector search over promotional data with fine-tuned LFM2.5 generation.
+> Retrieval-Augmented Generation pipeline for querying brand analytics documents: promotional reports, MMM summaries, and competitive intelligence.
+>
+> **Context:** Enterprise documents contain critical context that LLMs lack. This RAG pipeline grounds model responses in actual brand reports, with citation validation to ensure factual accuracy in pharma-regulated communications.
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
